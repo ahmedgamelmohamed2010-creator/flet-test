@@ -5,7 +5,7 @@ version = "1.0.0"
 description = "Flet Arabic Demo App"
 requires-python = ">=3.10"
 dependencies = [
-    "flet"
+    "flet>=0.86.0"
 ]
 
 [tool.flet]
