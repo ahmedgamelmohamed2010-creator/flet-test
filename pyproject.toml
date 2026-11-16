@@ -22,4 +22,4 @@ company = "Ahmed"
 copyright = "Copyright 2026"
 
 [tool.flet.android]
-min_sdk_version = 21
+min_sdk_version = 23
